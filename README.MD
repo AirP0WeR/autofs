@@ -1,3 +1,3 @@
-#Script to auto mount nfs to server
+# Script to auto mount nfs to server
 
 `bash start.sh`
